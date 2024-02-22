@@ -1,11 +1,11 @@
 // STEP 1 - convert identifiers to Camel Case notation:
-let someMonth
-function theMonth()
-let currentMonth
-let summerMonth
-let myLibraryFunction
+// let someMonth
+// function theMonth()
+// let currentMonth
+// let summerMonth
+// let myLibraryFunction
 
-// STEP 2
+// STEP 2 - examples of a numeric literal expression, a string literal expression, a Boolean literal expression, and a null literal expression
 // STEP 3
 // STEP 4
 // STEP 5
