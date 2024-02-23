@@ -5,9 +5,13 @@
 // let summerMonth
 // let myLibraryFunction
 // STEP 2 - examples of a numeric literal expression,
+// 8.9
 // a string literal expression, 
+// "Hello"
 // a Boolean literal expression, 
+// true
 // and a null literal expression
+// null
 // STEP 3
 // STEP 4
 // STEP 5
