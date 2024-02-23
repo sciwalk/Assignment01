@@ -12,7 +12,9 @@
 // true
 // and a null literal expression
 // null
-// STEP 3
+// STEP 3 - two examples of complex / variable expressions
+let anExpression = 3 + 4
+let anotherExpression = anExpression * 2
 // STEP 4
 // STEP 5
 // STEP 6
