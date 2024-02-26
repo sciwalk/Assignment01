@@ -20,14 +20,15 @@
 // let strFirstName, strLastName, strAddress, strCity, strState, strZipCode, intYourAge, strReferralSource, blnMayWeContactYou
 // STEP 5 Take the 3 of the 9 variables that you created above and demonstrate 3 ways for declaring and assigning values to those variables.
 // 1.
-let strFirstName
-strFirstName = 'Dave'
+// let strFirstName
+// strFirstName = 'Dave'
 // 2. 
-let strCity = 'San Diego'
+// let strCity = 'San Diego'
 // 3. 
-let strCity = 'San Diego', strState = 'CA'
-
+// let strCity = 'San Diego', strState = 'CA'
 // STEP 6 Create a variable. Add a number and a string and display the coerced result in the browser’s console window.
+let johnnyCashBirthDay = 26
+alert('Johnny Cash was born on February ' + johnnyCashBirthDay + ', 1932')
 // STEP 7 Create two variables. For the first variable, add a Boolean and a string and display the coerced result. For the second variable, add a number and a Boolean and display the coerced result.
 // STEP 8 Is the following string literal valid? If not, how would you fix it? let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."'console.log(someString)
 // STEP 9 Create a variable that produces a null value in the console window. Then, create a variable that produces an undefined value in the console window.
