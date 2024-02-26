@@ -39,6 +39,11 @@
 // let someString = "Who once said, 'Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.'"
 // console.log(someString)
 // STEP 9 Create a variable that produces a null value in the console window. Then, create a variable that produces an undefined value in the console window.
+// let x = 100
+// x = null
+// console.log(x)
+// let y
+// console.log(y)
 // STEP .0 Use the unary typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined.
 // STEP .1 Within an alert box, use the concatenation operator (+) to display text in the alert box that appears as follows:
 
