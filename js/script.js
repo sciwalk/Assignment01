@@ -27,9 +27,12 @@
 // 3. 
 // let strCity = 'San Diego', strState = 'CA'
 // STEP 6 Create a variable. Add a number and a string and display the coerced result in the browser’s console window.
-let johnnyCashBirthDay = 26
-alert('Johnny Cash was born on February ' + johnnyCashBirthDay + ', 1932')
+// let johnnyCashBirthDay = 26
+// alert('Johnny Cash was born on February ' + johnnyCashBirthDay + ', 1932')
 // STEP 7 Create two variables. For the first variable, add a Boolean and a string and display the coerced result. For the second variable, add a number and a Boolean and display the coerced result.
+// let blnMayWeContactYou = true, intYourAge = 99
+// alert('May we contact you?: ' + blnMayWeContactYou)
+// alert(intYourAge + true)
 // STEP 8 Is the following string literal valid? If not, how would you fix it? let someString = 'Who once said, "Only two things are infinite, the universe and human stupidity, and I'm not sure about the former."'console.log(someString)
 // STEP 9 Create a variable that produces a null value in the console window. Then, create a variable that produces an undefined value in the console window.
 // STEP .0 Use the unary typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined.
