@@ -13,9 +13,10 @@
 // and a null literal expression
 // null
 // STEP 3 - two examples of complex / variable expressions
-let anExpression = 3 + 4
-let anotherExpression = anExpression * 2
-// STEP 4
+// let anExpression = 3 + 4
+// let anotherExpression = anExpression * 2
+// STEP 4 - Declare (but do not assign) 9 variables for the following identifiers: First Name, Last Name, Address, City, State, Zip Code, Your Age, Referral Source, May We Contact You. Use Camel Casing and Hungarian Notation when naming your identifiers.
+let strFirstName, strLastName, strAddress, strCity, strState, strZipCode, intYourAge, strReferralSource, strMayWeContactYou
 // STEP 5
 // STEP 6
 // STEP 7
