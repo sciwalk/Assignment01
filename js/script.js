@@ -60,17 +60,17 @@
 // Substitute my name for your name. Although not necessary in practice, I want you to use 2 concatenation operators to construct this string of text. One after the text “Hello” and a second one after your name and before the comma.
 // alert('Hello ' + 'David Walker' + ', welcome to the JavaScript class!')
 // STEP .2 Declare a variable called name and set it equal to your name.
-let myName = 'David Walker'
+// let myName = 'David Walker'
 // Substitute your name in the previous alert string with the variable instead.
 // alert('Hello ' + myName + ', welcome to the JavaScript class!')
 // STEP .3 Declare a variable called course and set it equal to “JavaScript”.
-let course = 'JavaScript'
+// let course = 'JavaScript'
 // Rework your alert string so that it displays the string of text but using the variables as opposed to hard coded text.
 // alert('Hello ' + myName + ', welcome to the' + course + ' class!')
 // STEP .4 Rework the above string so that a line break is added right before the word “Welcome”. Your alert box should display as follows:
 // Hello Zak Ruvalcaba.
 // Welcome to the JavaScript class!
-alert('Hello ' + myName + '.\nWelcome to the ' + course + ' class!')
+// alert('Hello ' + myName + '.\nWelcome to the ' + course + ' class!')
 // STEP .5 Replace the hardcoded string of your name with a prompt that asks the user for their name. The prompt’s response will now be captured in the name variable.
 // STEP .6 Replace the hardcoded string of the class you are taking with a prompt that asks the user for the class they are taking. The prompt’s response will now be captured in the course variable.
 // STEP .7 Declare a variable called x and assign it a value of 10.
