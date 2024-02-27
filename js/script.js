@@ -72,9 +72,11 @@
 // Welcome to the JavaScript class!
 // alert('Hello ' + myName + '.\nWelcome to the ' + course + ' class!')
 // STEP .5 Replace the hardcoded string of your name with a prompt that asks the user for their name. The prompt’s response will now be captured in the name variable.
-let person = prompt('Please enter your first and last name', 'Kelly Greene')
-alert('Hello ' + person + '.\nWelcome to the ' + course + ' class!')
+// let person = prompt('Please enter your first and last name', 'Kelly Greene');
+// alert('Hello ' + person + '.\nWelcome to the ' + course + ' class!');
 // STEP .6 Replace the hardcoded string of the class you are taking with a prompt that asks the user for the class they are taking. The prompt’s response will now be captured in the course variable.
+// let course = prompt('Please enter the course you are taking', 'JavaScript')
+// alert('Hello ' + person + '.\nWelcome to the ' + course + ' class!');
 // STEP .7 Declare a variable called x and assign it a value of 10.
 // Declare a variable called y and assign it a value of 20.
 // Display the sum of those two numbers in the console window.
