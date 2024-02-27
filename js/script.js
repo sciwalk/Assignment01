@@ -45,13 +45,13 @@
 // let y
 // console.log(y)
 // STEP .0 Use the unary typeof operator on various literals to return the following types within the console window: string, number, Boolean, object, and undefined.
-console.log(typeof 'The Man in Black');
-console.log(typeof 42);
-console.log(typeof true);
-console.log(typeof 42);
-let car = {manufacturer:'Pontiac', color:'brown'}
-console.log(typeof car)
-console.log(typeof x);
+// console.log(typeof 'The Man in Black');
+// console.log(typeof 42);
+//console.log(typeof true);
+// console.log(typeof 42);
+// let car = {manufacturer:'Pontiac', color:'brown'}
+// console.log(typeof car)
+// console.log(typeof x);
 
 // STEP .1 Within an alert box, use the concatenation operator (+) to display text in the alert box that appears as follows:
 
