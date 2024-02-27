@@ -84,13 +84,16 @@
 // Display the sum of those two numbers in the console window.
 // console.log(x + y)
 // STEP .8 Declare a variable called x and assign it a value of 20.
-let x = 20
+// let x = 20
 // Add and assign 20 to that variable and display the result in the console window.
-x += 20
-console.log(x)
+// x += 20
+// console.log(x)
 // The result should be 40.
 // STEP .9 Declare a variable called x and assign it a value of 20.
+// let x = 20
 // Multiply and assign 5 to that variable and display the result in the console window.
+// x *= 5
+// console.log(x)
 // The result should be 100.
 // STEP  ;0 Declare a variable called x and assign it a value that equals the remainder of 20 divided by 3.
 // Divide and assign 1 to that variable and display the result in the console window.
